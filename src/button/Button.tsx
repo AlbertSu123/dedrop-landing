@@ -14,7 +14,7 @@ const Button = (props: IButtonProps) => {
   });
 
   return (
-    <div className={btnClass}>
+    <div className={btnClass} style={{ marginLeft: 20 }}>
       {props.children}
 
       <style jsx>
@@ -28,7 +28,7 @@ const Button = (props: IButtonProps) => {
           }
 
           .btn-xl {
-            @apply font-extrabold text-xl py-4 px-6;
+            @apply font-extrabold text-xl py-4 px-8;
           }
 
           .btn-primary {
