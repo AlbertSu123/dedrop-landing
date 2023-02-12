@@ -30,14 +30,14 @@ const Hero = () => (
         }
         description="Built Using the Streamr Network."
         windowsbutton={
-          <Link href="https://github.com/andr-dev/airdrop/releases/download/0.1.0/dedrop_0.1.0_x64_en-US.msi">
+          <Link href="https://github.com/andr-dev/dedrop/releases/download/0.1.0/dedrop_0.1.0_x64_en-US.msi">
             <a>
               <Button xl >Download for Windows</Button>
             </a>
           </Link>
         }
         macbutton={
-          <Link href="https://github.com/andr-dev/airdrop/releases/download/0.1.0/dedrop_0.1.0_universal.dmg">
+          <Link href="https://github.com/andr-dev/dedrop/releases/download/0.1.0/dedrop_0.1.0_universal.dmg">
             <a>
               <Button xl>Download for Mac</Button>
             </a>
