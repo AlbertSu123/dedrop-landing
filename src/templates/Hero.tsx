@@ -17,11 +17,6 @@ const Hero = () => (
             <a>GitHub</a>
           </Link>
         </li>
-        <li>
-          <Link href="/">
-            <a>Twitter</a>
-          </Link>
-        </li>
       </NavbarTwoColumns>
     </Section>
 
@@ -35,9 +30,9 @@ const Hero = () => (
         }
         description="Built Using the Streamr Network."
         button={
-          <Link href="https://creativedesignsguru.com/category/nextjs/">
+          <Link href="https://github.com/andr-dev/airdrop/releases/download/0.0.0/dedrop_0.1.0_x64_en-US.msi">
             <a>
-              <Button xl>Download Your Free Theme</Button>
+              <Button xl>Download for Windows</Button>
             </a>
           </Link>
         }
