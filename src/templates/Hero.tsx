@@ -37,7 +37,7 @@ const Hero = () => (
           </Link>
         }
         macbutton={
-          <Link href="https://github.com/andr-dev/airdrop/releases/download/0.1.0/dedrop_0.1.0_macos_universal.zip">
+          <Link href="https://github.com/andr-dev/airdrop/releases/download/0.1.0/dedrop_0.1.0_universal.dmg">
             <a>
               <Button xl>Download for Mac</Button>
             </a>
